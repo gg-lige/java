@@ -92,10 +92,7 @@ public class IOTest {
 		
 		out.close();
 		objectOutputStream.close();
-	}
-	
-	
-	
+	}	
 	
 	/**
 	 * 先创建两个字节输入输出流，分别指向hello.txt和hello5.txt
